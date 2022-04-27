@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "code-runner.runInTerminal": true,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
